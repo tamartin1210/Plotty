@@ -1,2 +1,2 @@
 # Plotty
-Plotty
+Plotty Flask
