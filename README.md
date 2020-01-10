@@ -1,2 +1,2 @@
 # Plotty
-Plotty Flask
+Plotty Flask.js
